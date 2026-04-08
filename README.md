@@ -33,6 +33,7 @@ Klik salah satu bagian untuk langsung membuka folder terkait di repository.
 | :--- | :--- | :--- |
 | **Rekursif** | [📂 Buka Folder](./Rekursif) | Konsep dasar dan contoh fungsi rekursif |
 | **Brute Force** | [📂 Buka Folder](./Brute%20Force) | Konsep dasar dan contoh brute force |
+| **Sorting & Searching** | [📂 Buka Folder](./Sorting%20and%20Searching) | Konsep dasar dan contoh linear search dan binary search |
 
 
 Setiap folder biasanya berisi:
